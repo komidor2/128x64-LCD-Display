@@ -3,7 +3,7 @@
 
 This is a C++ class for running a 128x64 LCD and a demo using the class.
 
-It was inspired from a python library originated the czech author Milan Krúpa and the English translation and improvements by Henrique Bruno Fantauzzi de Almeida.
+It was inspired from a python library originated the Czech author Milan Krúpa and the English translation and improvements by Henrique Bruno Fantauzzi de Almeida.
 
 
 python code: http://www.astromik.org/raspi/42.htm
@@ -17,7 +17,7 @@ python code: http://www.astromik.org/raspi/42.htm
 
 ## HISTORY:
 
-Transferring a project from Arduino to Raspbery PI, I was looking for a ready cpp library or class to run a 128x64 LCD Display and found absolutely none (At least none that would not require cross-compiling, or other methods above my level).
+Transferring a project from Arduino to Raspberry PI, I was looking for a ready cpp library or class to run a 128x64 LCD Display and found absolutely none (At least none that would not require cross-compiling, or other methods above my level).
 Finally I came across the python library mentioned above and started to convert it to c++. 
 
 ## THE CLASS:
